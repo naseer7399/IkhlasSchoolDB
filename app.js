@@ -1415,8 +1415,8 @@ const NAV_ITEMS = [
   { id:'fees',      label:'Fees',      icon:'fees',       roles:['management'] },
   { id:'payments',  label:'Payments',  icon:'payments',   roles:['management','feepayments'] },
 /*  { id:'attendance', label:'Attendance', icon:'calendar', roles:['management','teacher'] },
-  { id:'reportcards', label:'Report Cards', icon:'grad', roles:['management','teacher'] }, */
-  { id:'accounts',  label:'Accounts',  icon:'accounts',   roles:['management'] },
+  { id:'reportcards', label:'Report Cards', icon:'grad', roles:['management','teacher'] }, 
+  { id:'accounts',  label:'Accounts',  icon:'accounts',   roles:['management'] }, */
   { id:'reports',   label:'Reports',   icon:'reports',    roles:['management','teacher'] },
   { id:'notifications', label:'Notifications', icon:'bell', roles:['management'] },
   { id:'settings',  label:'Settings',  icon:'settings',   roles:['management'] },
